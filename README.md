@@ -9,4 +9,4 @@ http://localhost:8000/.
 
 Caso este repositório for clonado, o usuário deve seguir as orientações seguidas acima!
 
-Se houver alguma dúvida sobre o progeto pode-se entrar em contato comigo através do email  rerisonmcbarros@gmail.com
+Se houver alguma dúvida sobre o progeto pode-se entrar em contato comigo através do email  rerisonmcb@gmail.com
